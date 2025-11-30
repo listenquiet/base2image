@@ -2,7 +2,13 @@
 CTF比赛中会遇到杂项题目，有图片的提示，但最终找到的可能是个编码后的字符串，但base编码较多，有base16（hex）、base32、base64、base85等，所以用AiPy辅助写了一个base编码转换为图片的脚本，功能是尝试对找到的编码字符串每种base64编码都尝试一遍，如果能转为图片，就保存到本地
 
 # 使用方法
-把代码里的文件名替换为自己本地保存的文件，文件里是找到的base编码
+把代码里的文件名替换为自己本地保存的文件，文件内容是找到的base编码
+<img width="1224" height="684" alt="image" src="https://github.com/user-attachments/assets/3e4293e4-b195-4c42-9448-47326cf4ff38" />
+
+然后执行代码即可
+
+<img width="659" height="672" alt="image" src="https://github.com/user-attachments/assets/3ac2aa0d-6420-4617-9751-a10d78bb9fa3" />
+
 
 # 使用AiPy工作时的提示过程
 <img width="2022" height="1380" alt="image" src="https://github.com/user-attachments/assets/099adaea-620f-4eb0-b698-efa790c6c7c8" />
