@@ -11,9 +11,15 @@ AiPy创建了4个脚本，每个脚本完成一步功能，提示它合并成一
 
 # 关于AiPy
 想了解更多关于AiPy信息的可以访问AiPy官网
+
 AiPy官网：https://www.aipyaipy.com/
+
 AiPy调用的模型：https://www.trustoken.cn/ 可以免费使用哟！
-注册时请使用我的邀请码：5kvk，立即获得 3,500,000 Tokens额外奖励！
+
+注册时请使用我的邀请码：**5kvk**，立即获得 3,500,000 Tokens额外奖励！
+
 使用方式如下：
-① 进入AiPy官网：https://www.aipyaipy.com/，下载最新版AiPy客户端。
-② 注册登录时填写上方邀请码即可。
+
+① 进入AiPy官网：https://www.aipyaipy.com/  下载最新版AiPy客户端。
+
+② 注册登录时填写邀请码 **5kvk** 即可。
